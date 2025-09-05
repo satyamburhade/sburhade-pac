@@ -5,6 +5,4 @@ Follow the [Getting Started Guide](https://pipelinesascode.com/docs/install/gett
 
 > [!IMPORTANT]  
 > Do not fork this repo, but instead use it as a Template by following this link:
->
 > https://github.com/openshift-pipelines/pac-demo/generate
->
